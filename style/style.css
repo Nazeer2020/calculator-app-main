@@ -46,7 +46,7 @@ P {
   margin-right: 6px;
 }
 
-.them {
+.theme {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -107,7 +107,9 @@ section {
   border: none;
 }
 
-.operator
+
+
+.operator,
 .dell,
 .btn + .btn {
   margin-left: 5px;
@@ -366,6 +368,7 @@ section {
 
 @media (min-width:700px){
 
+.operator, 
 .dell,
 .big__btn,
 .btn {
